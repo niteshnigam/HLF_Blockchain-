@@ -1,9 +1,4 @@
 
-####################### https://courses.pragmaticpaths.com ##############
-# Part of a course 'Mastering Fabric Chaincode Development using GoLang'#
-# http://www.bcmentors.com      raj@acloudfan.com                       #
-#########################################################################
-
 Change Log:
 ----------
 HLF-Dev-Chaincode-V1.4-1.3      June 6, 2019
